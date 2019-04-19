@@ -47,7 +47,7 @@ for development enviroment
 - morgan 1.9.1
 - react-svg-loader 2.1.0
 - regenerator-runtime 0.13.1
-- webpack 2.2.0
+- webpack 2.2.
 
 ## Development
 
@@ -56,6 +56,6 @@ for development enviroment
 From within the root directory:
 
 ```sh
-npm install -g webpack
 npm install
+npm install -g webpack
 ```
