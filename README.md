@@ -26,7 +26,28 @@
 An `nvmrc` file is included if using [nvm](https://github.com/creationix/nvm).
 
 - Node 6.13.0
-- etc
+- React 16.7.0
+- React-dome 16.7.0
+- MySql 2.14.1
+- Body-parser 1.17.2
+- Express 4.15.4
+- JQuery 3.2.1
+
+for development enviroment 
+- @babel/core 7.2.2
+- @babel/preset-env 7.2.0
+- @babel/preset-react 7.0.0
+- babel-core 7.0.0-bridge.0
+- babel-jest 23.6.0
+- babel-loader 8.0.4
+- enzyme 3.8.0
+- enzyme-adapter-react-16 1.7.1
+- faker 4.1.0
+- jest 23.6.0
+- morgan 1.9.1
+- react-svg-loader 2.1.0
+- regenerator-runtime 0.13.1
+- webpack 2.2.0
 
 ## Development
 
