@@ -19,7 +19,8 @@
 
 ## Usage
 
-> Some usage instructions
+in the URL use /restaurants/:id to check the restaurants review.
+fake information has been used using faker framwork.
 
 ## Requirements
 
@@ -75,4 +76,6 @@ Modifiy the username and password after installing MySQL in /database/config.js 
 [Docker](https://docs.docker.com/v17.12/install).
 ```sh
 To build an image use docker-compose build
+To run the docker-compose image use docker-compose up
+To seed the database in the URL type /reviews/seed
 ```
